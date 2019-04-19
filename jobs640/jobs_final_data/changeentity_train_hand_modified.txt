@@ -1,0 +1,500 @@
+what jobs are there for titleid0 who know languageid0 ?
+what titleid0 jobs are there in locid0 ?
+what jobs pay num_salary are located in locid0 and require a degree ?
+what jobs are there for languageid0 programmers who dont know languageid1 ?
+what jobs use languageid0 on companyid0 machines and pay num_salary ?
+what jobs use languageid0 on platformid0 and pay num_salary ?
+what jobs desire a degree but dont use languageid0 ?
+show me the jobs using languageid0 that require a degid0 but desire a degid1 ?
+what jobs on platformid0 are for programming languageid0 and desire year0 years experience ?
+show me jobs for companyid0 requiring experience on platformid0 ?
+show me jobs at companyid0 requiring no experience and a degid0 ?
+show me titleid0 jobs at companyid0 ?
+show me locid0 jobs with a salary of num_salary ?
+find all areaid0 administration jobs in locid0 ?
+find all languageid0 jobs in locid0 ?
+show me a companyid0 job in locid0 requiring a degid0 ?
+which jobs in locid0 offer over num_salary in areaid0 ?
+which jobs at companyid0 deal with languageid0 ?
+which jobs are for degid0 majors with at least year0 years experience in platformid0 ?
+what are the positions within companyid0 that pay num_salary per year ?
+what jobs in locid0 have openings for a languageid0 titleid0 ?
+show me the job application for titleid0 ?
+are there any jobs specializing in areaid0 with companyid0 ?
+what jobs are recruiterid0 employment hiring for ?
+show me the jobs concerning game titleid0 on a platformid0 ?
+what jobs in locid0 have a salary of num_salary ?
+show me jobs requiring a degid0 on platformid0 ?
+what jobs are there doing computer areaid0 on silicon areaid0 machines ?
+which jobs pay num_salary that do not require a degid0 ?
+what job is there for languageid0 but not languageid1 ?
+what jobs in locid0 require a degid0 ?
+what jobs are available using applicationid0 with a specialty areaid0 of areaid0 ?
+show me the jobs using languageid0 with companyid0 in locid0 ?
+what jobs pay num_salary per year that require a degid0 ?
+show me the jobs in locid0 using areaid0 on platformid0 ?
+are there any jobs at companyid0 that require no experience and pay num_salary ?
+list all jobs using languageid0 and languageid1 in locid0 ?
+show all titleid0 positions in locid0 with areaid0 and languageid0 ?
+show me jobs in locid0 using platformid0 that do not require a degid0 ?
+what jobs in locid0 only require a degid0 and no experience ?
+what jobs have a recruiter named recruiterid0 ?
+what titleid0 jobs are available from companyid0 ?
+what jobs using languageid0 and languageid1 are available in locid0 and pay num_salary a year ?
+are there any jobs in the us with the title titleid0 ?
+list the positions that require a knowledge of companyid0 applicationid0 ?
+show me positions in areaid0 programming ?
+give some jobs in locid0 on a platformid0 system ?
+show me jobs using languageid0 that require a degid0 and desire a degid1 ?
+what jobs in locid0 require year0 years of experience but desire year0 years of experience ?
+what jobs at companyid0 require a degid0 ?
+what jobs in locid0 require no experience ?
+what jobs are there with a salary of num_salary ?
+what languageid0 jobs are in locid0 ?
+what are the languageid0 jobs in locid0 requiring a degid0 ?
+what jobs are there in locid0 that use languageid0 and require no experience ?
+show me the jobs in locid0 that desire year0 years of experience and use languageid0 ?
+show me jobs requiring no experience ?
+show me jobs in locid0 ?
+show me jobs not involving languageid0 ?
+show me areaid0 jobs which recruiterid0 is recruiting for ?
+what areaid0 positions require only a degid0 ?
+show me the jobs with num_salary salary ?
+show me the titleid0 job in locid0 ?
+any jobs available using areaid0 ?
+are there any jobs with a salary of num_salary ?
+are there any titleid0 positions open ?
+are there any applicationid0 jobs open ?
+what companyid0 jobs do not require a degid0 ?
+what companyid0 jobs require using languageid0 on platformid0 ?
+what jobs require year0 years of experience require a degid0 in cs are in languageid0 and are located in locid0 ?
+what jobs does recruiterid0 recruit for ?
+show me locid0 jobs using languageid0 in the specialty areaid0 of areaid0 ?
+show me jobs in locid0 using languageid0 on platformid0 requiring a degid0 ?
+show me jobs with the platformid0 in the specialty areaid0 of areaid0 ?
+show me areaid0 jobs in locid0 requiring an degid0 and the knowledge of languageid0 ?
+show me jobs in computer areaid0 requiring a degid0 in art and knowledge of applicationid0 ?
+show me the jobs at companies in locid0 that want a degree in degid0 ?
+show the jobs offering num_salary working with languageid0 on platformid0 ?
+show the jobs with the title titleid0 requiring year0 years of experience ?
+show the jobs using languageid0 not requiring a degree in cs ?
+what positions are there in areaid0 ?
+show me all job that are available ?
+show the jobs for degid0 in locid0 ?
+what are the jobs that require experience with companyid0 word ?
+are there any jobs using languageid0 with companyid0 ?
+show me the jobs that require year0 years experience ?
+are there any titleid0 jobs open ?
+what jobs as an titleid0 pay num_salary ?
+are there any jobs using languageid0 that dont require a degid0 ?
+show me the languageid0 jobs in locid0 that desire year0 years experience ?
+show me the jobs using languageid0 requiring a degid0 ?
+are there any jobs in languageid0 that the salary is num_salary ?
+show me the jobs that are not in languageid0 ?
+show me the jobs requiring year0 years of experience at companyid0 ?
+what jobs using languageid0 are there in locid0 ?
+show me the areaid0 jobs in locid0 with a salary of num_salary ?
+show me the titleid0 jobs which require a degid0 ?
+what jobs desire year0 years of experience with languageid0 on platformid0 ?
+show me locid0 jobs using languageid0 on platformid0 ?
+what applicationid0 jobs are there with companyid0 in locid0 using platformid0 ?
+are there any jobs in locid0 requiring at least a degid0 and knowing languageid0 ?
+what are the jobs in locid0 that require at least year0 years of experience ?
+are there any jobs using languageid0 that are not with companyid0 ?
+show me the jobs that operate on platformid0 ?
+are there any platformid0 titleid0 jobs ?
+what are the jobs that pay num_salary per year ?
+show jobs in locid0 that require a degid0 ?
+give me jobs requiring degid0 ?
+show the jobs on platformid0 ?
+what jobs are there on platformid0 ?
+list jobs requiring degid0 ?
+tell me jobs in areaid0 ?
+are there any jobs on platformid0 ?
+are there any jobs requiring degid0 ?
+are there any jobs for a areaid0 specialist ?
+what jobs are there in locid0 ?
+list the jobs in languageid0 ?
+show jobs using languageid0 ?
+tell me the jobs using languageid0 ?
+show jobs using languageid0 ?
+list the jobs for a areaid0 specialist ?
+show the jobs requiring degid0 ?
+are there any jobs requiring degid0 ?
+what jobs are there requiring degid0 ?
+list the jobs for a areaid0 specialist ?
+are there any jobs on platformid0 ?
+show jobs using languageid0 ?
+show the jobs on platformid0 ?
+are there any jobs on companyid0 ?
+show the jobs for a areaid0 specialist ?
+show jobs in languageid0 ?
+give me jobs in languageid0 ?
+tell me jobs using languageid0 ?
+what jobs are there for a areaid0 specialist ?
+tell me the jobs on platformid0 ?
+what jobs are there in areaid0 ?
+list the jobs using languageid0 ?
+give me the jobs in languageid0 ?
+what jobs are there for a areaid0 specialist ?
+show the jobs in languageid0 ?
+what jobs are there in locid0 ?
+show the jobs requiring degid0 in locid0 ?
+give me jobs using languageid0 ?
+what jobs are there in areaid0 ?
+list the jobs in areaid0 ?
+what jobs are there on platformid0 ?
+show the jobs using languageid0 ?
+tell me the jobs requiring degid0 ?
+are there any jobs in locid0 ?
+are there any jobs using languageid0 ?
+tell me the jobs on platformid0 ?
+list jobs in areaid0 ?
+what jobs are there using languageid0 ?
+show the jobs in locid0 ?
+show the jobs requiring degid0 ?
+are there any jobs in locid0 ?
+what jobs are there requiring degid0 ?
+give me the jobs for a areaid0 specialist ?
+list the jobs requiring degid0 ?
+are there any jobs for a areaid0 specialist ?
+are there any jobs using languageid0 ?
+are there any jobs requiring degid0 ?
+list jobs on platformid0 ?
+tell me the jobs requiring degid0 in locid0 ?
+list jobs in locid0 ?
+show the jobs for a areaid0 specialist ?
+show the jobs in locid0 ?
+are there any jobs requiring degid0 ?
+list jobs requiring degid0 ?
+are there any jobs requiring degid0 ?
+give me the jobs requiring degid0 ?
+show jobs on platformid0 ?
+what jobs are there for a areaid0 specialist ?
+what jobs are there requiring degid0 ?
+what jobs are there on platformid0 ?
+list the jobs using languageid0 ?
+list the jobs on platformid0 ?
+what jobs are there requiring degid0 ?
+are there any jobs on platformid0 ?
+what jobs are there for a areaid0 specialist ?
+give me jobs for a areaid0 specialist ?
+list jobs using languageid0 ?
+give me the jobs for a areaid0 specialist ?
+list jobs in areaid0 ?
+are there any jobs in areaid0 ?
+show jobs in locid0 ?
+are there any jobs for a areaid0 specialist ?
+what jobs are there using languageid0 ?
+what jobs are there on platformid0 ?
+what jobs are there for a areaid0 specialist ?
+tell me jobs using languageid0 ?
+what jobs are there in locid0 on companyid0 ?
+show jobs requiring degid0 ?
+give me jobs in locid0 ?
+give me jobs requiring degid0 ?
+what jobs are there on platformid0 ?
+list the jobs using languageid0 for a areaid0 specialist ?
+are there any jobs requiring degid0 ?
+what jobs are there on platformid0 ?
+give me the jobs on platformid0 ?
+what jobs are there using languageid0 ?
+are there any jobs using languageid0 in locid0 ?
+give me the jobs for a areaid0 specialist in locid0 ?
+give me the jobs for a areaid0 specialist ?
+are there any jobs using languageid0 ?
+give me jobs in locid0 ?
+tell me the jobs using languageid0 ?
+list jobs in locid0 ?
+what jobs are there using languageid0 ?
+list the jobs in languageid0 ?
+are there any jobs in locid0 ?
+are there any titleid0 jobs requiring degid0 ?
+tell me the jobs in areaid0 ?
+give me jobs on platformid0 using languageid0 ?
+are there any jobs requiring degid0 ?
+list the jobs using languageid0 ?
+give me the jobs in locid0 ?
+list jobs using languageid0 ?
+show the jobs on platformid0 requiring degid0 ?
+are there any jobs requiring degid0 ?
+show the jobs in areaid0 ?
+tell me jobs for a areaid0 specialist ?
+what jobs are there for a areaid0 specialist ?
+give me the jobs using languageid0 ?
+list jobs requiring degid0 using languageid0 ?
+show jobs for a areaid0 specialist ?
+tell me jobs using languageid0 ?
+what jobs are there using languageid0 ?
+show the jobs on platformid0 ?
+show jobs requiring degid0 ?
+tell me the jobs requiring degid0 using languageid0 ?
+give me jobs in locid0 using languageid0 ?
+list jobs in languageid0 ?
+show the jobs in locid0 ?
+are there any jobs on platformid0 ?
+what jobs require a degid0 ?
+are there any jobs for a titleid0 ?
+what jobs need at least year0 years of experience ?
+what jobs are there for a titleid0 using languageid0 ?
+are there any jobs that require a knowledge of platformid0 in locid0 ?
+give me jobs on the platformid0 using languageid0 ?
+what jobs are there for a languageid0 titleid0 ?
+what are all the jobs ?
+could you list all the jobs ?
+give me a list of all the jobs ?
+show me jobs in locid0 that use languageid0 on platformid0 for a titleid0 paying at least num_salary ?
+what jobs use languageid0 with the areaid0 on macs ?
+what jobs in locid0 pay num_salary for languageid0 development ?
+what jobs in locid0 are for a languageid0 titleid0 that involve platformid0 and the areaid0 ?
+show me everything ?
+what jobs are there ?
+all of it ?
+everything ?
+what jobs in locid0 offer a languageid0 titleid0 for num_salary a year ?
+what jobs in locid0 require languageid0 and areaid0 experience ?
+are there jobs using languageid0 in locid0 with applicationid0 and on platformid0 ?
+are there any jobs in locid0 developing areaid0 in platformid0 using languageid0 ?
+what jobs are there that dont require a degree but use languageid0 ?
+what jobs are there for titleid0 who know languageid0 ?
+what jobs desire a degree but dont use languageid0 ?
+show me the jobs using languageid0 that require a degid0 but desire a degid1 ?
+what are the titleid0 jobs available using languageid0 ?
+which titleid0 jobs in locid0 require year0 years experience and pay num_salary ?
+what jobs on platformid0 are for programming languageid0 and desire year0 years experience ?
+show me jobs are companyid0 requiring experience on platformid0 ?
+show me locid0 jobs requiring a degid0 ?
+show me jobs at companyid0 requiring no experience and a degid0 ?
+show me titleid0 jobs at companyid0 ?
+show me titleid0 jobs requiring no experience on platformid0 ?
+show me locid0 jobs with a salary of num_salary ?
+find all areaid0 administration jobs in locid0 ?
+show me a companyid0 job in locid0 requiring a degid0 ?
+which jobs in locid0 offer over num_salary in areaid0 ?
+which jobs at companyid0 deal with languageid0 ?
+which jobs are for degid0 majors with at least year0 years experience in platformid0 ?
+what are the positions within companyid0 that pay num_salary per year ?
+what jobs in locid0 have openings for a languageid0 titleid0 ?
+are there any jobs specializing in areaid0 with companyid0 ?
+what jobs are recruiterid0 employment hiring for ?
+show me the jobs concerning areaid0 development on a platformid0 ?
+what jobs in locid0 have a salary of num_salary ?
+show me jobs requiring a degid0 on platformid0 ?
+show me titleid0 jobs in locid0 ?
+show me languageid0 jobs requiring a degid0 in locid0 ?
+show me jobs desiring a degid0 in locid0 with companyid0 ?
+how much experience is wanted for a job at companyid0 ?
+what programming languages are desired for a job as a titleid0 at companyid0 ?
+list the companies that desire languageid0 experience ?
+list the required experience for a job using languageid0 ?
+what are the jobs using languageid0 with salaries of num_salary ?
+what locations offer jobs using languageid0 on platformid0 ?
+what jobs are available using applicationid0 with a specialty areaid0 of areaid0 ?
+what positions are there that use languageid0 and languageid1 ?
+show me the jobs using languageid0 with companyid0 in locid0 ?
+what jobs pay num_salary per year that desire a degid0 ?
+show me all of the titleid0 jobs in locid0 ?
+show me the jobs in locid0 using areaid0 on platformid0 ?
+show me jobs in locid0 using platformid0 that do not require a degid0 ?
+give me the jobs using languageid0 that dont require platformid0 ?
+are there any jobs requiring a degid0 for companyid0 in locid0 ?
+show me the hardware platforms associated with a titleid0 with companyid0 ?
+what titleid0 positions in locid0 require no experience ?
+what titleid0 jobs are available from companyid0 ?
+what are the degree requirements for a titleid0 ?
+list the positions that require a knowledge of companyid0 applicationid0 ?
+what jobs in locid0 require year0 years of experience but desire year0 years of experience ?
+what areaid0 jobs are there in locid0 that pay num_salary ?
+what jobs in locid0 require no experience ?
+what jobs are there with a salary of num_salary ?
+what languageid0 jobs are in locid0 ?
+what are the languageid0 jobs in locid0 requiring a degid0 ?
+what jobs are there in locid0 that use languageid0 and require no experience ?
+show me the jobs in locid0 that desire year0 years of experience and use languageid0 ?
+show me jobs requiring no experience ?
+show me jobs at companyid0 earning num_salary ?
+show me jobs not involving languageid0 ?
+show me areaid0 jobs which recruiterid0 is recruiting for ?
+show me the jobs with num_salary salary ?
+show me the titleid0 job in locid0 ?
+show me the jobs that require year0 year of experience but desire year0 years of experience ?
+are there any computer jobs in the field of areaid0 ?
+show me locid0 jobs desiring a degid0 ?
+any jobs available using areaid0 ?
+are there any titleid0 positions open ?
+what languageid0 jobs are there with companyid0 in locid0 ?
+are there any applicationid0 jobs open ?
+are there any jobs in locid0 ?
+what jobs pay num_salary ?
+what companyid0 jobs do not require a degid0 ?
+what companyid0 jobs require using languageid0 on platformid0 ?
+what jobs require year0 years of experience require a degid0 are in languageid0 and are located in locid0 ?
+what jobs does companyid0 recruit for ?
+show me locid0 jobs using languageid0 in the specialty areaid0 of areaid0 ?
+show me jobs in locid0 using languageid0 on platformid0 requiring a degid0 ?
+show me areaid0 jobs in locid0 requiring an degid0 and the knowledge of languageid0 ?
+show me jobs in computer areaid0 requiring a degid0 in art and knowledge of applicationid0 ?
+show me the jobs at companies in locid0 that want a degree in degid0 ?
+show the jobs offering num_salary working with languageid0 on platformid0 ?
+show the jobs with the title systems titleid0 requiring year0 years of experience ?
+show the jobs using languageid0 not requiring a degid0 ?
+show me all job that are available ?
+show the companies that are looking for degid0 in locid0 ?
+what are the jobs that require experience with companyid0 word ?
+are there any jobs using languageid0 with companyid0 ?
+show me the jobs using languageid0 with salaries greater than num_salary ?
+show me the jobs that require year0 years experience ?
+what jobs are in locid0 that are not at companyid0 ?
+what jobs as titleid0 pay num_salary ?
+show me the jobs using languageid0 requiring a degid0 ?
+show me the jobs that are not in languageid0 ?
+are there any jobs that require the knowledge of platformid0 platform ?
+what jobs using languageid0 are there in locid0 ?
+show me the titleid0 jobs which require a degid0 ?
+what jobs desire year0 years of experience with languageid0 on platformid0 ?
+are there any jobs using languageid0 that are not with companyid0 ?
+are there any platformid0 titleid0 jobs ?
+show jobs in locid0 that require a degid0 ?
+what jobs are there for languageid0 platformid0 titleid0 ?
+what jobs are there in locid0 for titleid0 areaid0 areaid0 on platformid0 using languageid0 ?
+what jobs are there for languageid0 titleid0 that require a degid0 ?
+what titleid0 jobs are there that use languageid0 ?
+what jobs in companyid0 in locid0 do not need a degree ?
+what jobs in locid0 need knowledge in platformid0 ?
+what jobs require knowledge of languageid0 but not languageid1 ?
+what are the jobs in locid0 requiring knowledge of applicationid0 ?
+show me jobs with a salary greater than num_salary dollars a year ?
+what jobs in locid0 require the use of languageid0 ?
+give me jobs that require areaid0 experience but no languageid0 ?
+what jobs are there in locid0 that requires a degid0 ?
+what jobs are there in locid0 that requires experience with platformid0 ?
+show me titleid0 jobs requiring experience with platformid0 ?
+what jobs are there with a salary of more than num_salary dollars per year ?
+what jobs in locid0 require year0 years of experience ?
+what jobs in locid0 require knowledge of the platform platformid0 ?
+show me jobs located in locid0 for languageid0 programmers ?
+show jobs for a languageid0 titleid0 familiar with the platformid0 environment ?
+show jobs that do not require a degree for languageid0 programmers ?
+what jobs in locid0 use languageid0 and languageid1 ?
+what jobs require a degid0 degree and desire an degid0 degree ?
+what locid0 jobs that use languageid0 do not require any experience ?
+what jobs require knowledge of languageid0 but not languageid1 ?
+what jobs in locid0 require experience with platformid0 ?
+are there any titleid0 jobs in locid0 ?
+show me locid0 jobs requiring a degid0 degree with a salary greater than num_salary per year ?
+show me jobs at companyid0 requiring a degid0 degree ?
+what jobs in locid0 are there that requires a degid0 with year0 year of experience ?
+what jobs are there in locid0 with a salary of at least num_salary per year ?
+what jobs do not require a degree but pay more than num_salary ?
+what jobs are available for someone who know applicationid0 on platformid0 ?
+what titleid0 jobs are there in locid0 ?
+what jobs use languageid0 but do not require a degree ?
+show me locid0 jobs requiring a degid0 ?
+what areaid0 related jobs require a degid0 but no experience ?
+what companyid0 jobs are there that require a degid0 degree ?
+what jobs are there in locid0 for people with knowledge of the application applicationid0 ?
+what jobs are there for programmers that know languageid0 ?
+are there any platformid0 jobs open ?
+are there any jobs in locid0 paying over num_salary per year ?
+what jobs are there in locid0 that require a degid0 degree ?
+what jobs are there in locid0 that require year0 years experience ?
+what titleid0 jobs are there that require experience ?
+which jobs require languageid0 and languageid1 but not languageid2 ?
+what locid0 areaid0 areaid0 jobs require languageid0 and languageid1 ?
+what jobs in locid0 require a degid0 and languageid0 but not languageid1 ?
+what jobs require a degree for languageid0 programmers who do not know languageid1 ?
+what jobs have a salary greater than 20 an hour ?
+what titleid0 jobs in locid0 require a degid0 and languageid0 ?
+what jobs require a degid0 and experience with applicationid0 ?
+what are the jobs for a languageid0 titleid0 in locid0 ?
+show me a job that requires languageid0 and languageid1 and is in locid0 ?
+what job is there for a degid0 with year0 years of experience ?
+what jobs are there which require languageid0 on platformid0 and platformid0 ?
+what jobs are there for languageid0 programmers which pay more than num_salary per year ?
+what jobs are there outside locid0 which pay less than num_salary per year ?
+what jobs require experience in languageid0 and languageid1 but not languageid2 ?
+what jobs require a degid0 and no experience ?
+show me titleid0 job openings at companyid0 ?
+show me jobs paying greater than num_salary per year ?
+what jobs require at least year0 year of experience in languageid0 ?
+what jobs require languageid0 and pays a salary greater than num_salary per year ?
+what jobs in locid0 require a degid0 degree and deal with areaid0 ?
+what areaid0 jobs are available that need platformid0 experience and no degree ?
+what jobs pay at least num_salary dollars per year ?
+what jobs are there for programmers who know languageid0 ?
+what jobs in locid0 desiring a degid0 are there for a languageid0 titleid0 ?
+are there jobs that do not require a degree in locid0 ?
+show me jobs in locid0 requiring knowledge of platformid0 and pays more than num_salary a year ?
+what jobs as a titleid0 are available in locid0 but not locid0 ?
+which titleid0 jobs in locid0 require year0 years experience and pay num_salary ?
+what jobs are available that require languageid0 but not areaid0 experience or areaid0 experience ?
+show a list of jobs requiring experience in languageid0 or languageid1 ?
+what jobs need knowledge of languageid0 or languageid1 ?
+show me locid0 jobs requiring a degid0 ?
+does companyid0 have any positions that dont require experience ?
+does companyid0 have any titleid0 positions ?
+does companyid0 have any positions that dont require experience ?
+show me what needs experience ?
+is languageid0 required for any jobs ?
+is anyone offering num_salary for areaid0 work ?
+is there anything for an old languageid0 titleid0 on platformid0 ?
+is companyid0 hiring languageid0 programmers who know platformid0 in austin
+if i moved to locid0 and learned languageid0 on applicationid0 could i find anything for num_salary on platformid0 ?
+show me something that requires applicationid0 ?
+can you offer anything with at least num_salary on a platformid0 ?
+whats available on platformid0 and near locid0 ?
+show me whats out there for languageid0 developers on platformid0 ?
+whats in locid0 that pays over num_salary on platformid0 with areaid0 and languageid0 ?
+whats all there ?
+all ?
+mvs languageid0 and databases are the key to companyid0 ?
+only companyid0 languageid0 platformid0 and applicationid0 and num_salary dollars can satiate me ?
+greed for num_salary and languageid0 plagues titleid0 wanting to live in locid0 at companyid0 ?
+moving to locid0 need a job with platformid0 languageid0 and companyid0 ?
+vanity wants 5000 a month with buzwords like languageid0 companyid0 areaid0 and locid0 ?
+test titleid0 in need of num_salary in locid0 on platformid0 ?
+i wonder what companyid0 does on platformid0 with languageid0 and platformid0 ?
+i hold a degree in degid0 in locid0 are there any jobs for me ?
+i want a job that doesnt use platformid0 ?
+i want a job that use languageid0 ?
+i would like to find a job using languageid0 ?
+i would like to see all the jobs ?
+what jobs can i find with companyid0 ?
+can i find a job making more than num_salary a year without a degree ?
+who might offer me num_salary for areaid0 development ?
+i wish there were some languageid0 jobs in locid0 ?
+what do you have paying over num_salary on the platformid0 ?
+i sure do wish there were languageid0 languageid1 jobs out there . can you help ?
+do you have any jobs involving languageid0 on platformid0 ?
+who gives num_salary for languageid0 ?
+i sure would like a languageid0 job at companyid0 involving databases ?
+id like to see everything ?
+could a titleid0 find work in locid0 ?
+what work do you have available ?
+show me what jobs there are ?
+what jobs give me num_salary to work in locid0 on areaid0 and areaid0 with languageid0 ?
+which jobs offer me num_salary to work on areaid0 and areaid0 with languageid0 ?
+are there any jobs for people in locid0 that want to program in languageid0 but do not have a degree ?
+are there any jobs for people in locid0 that want to program in languageid0 but do not have a degree ?
+where can i work with a degid0 and no experience ?
+list the jobs requiring languageid0 a degid0 year0 years experience ?
+what jobs are there working for companyid0 programming languageid0 for applicationid0 ?
+what jobs are there working for companyid0 programming languageid0 for applicationid0 ?
+which jobs in locid0 offer for students fresh out of college in areaid0 ?
+which jobs in locid0 offer for students fresh out of college in areaid0 ?
+which jobs use languageid0 as their development tool ?
+which jobs use languageid0 as their development tool ?
+could i have some jobs using languageid0 with applicationid0 ?
+what titleid0 positions in areaid0 companies in locid0 do not require languageid0 ?
+what jobs require a degid0 year0 years of experience pay num_salary and are in locid0 ?
+what jobs require a degid0 year0 years of experience pay num_salary and are in locid0 ?
+show me titleid0 jobs in locid0 ?
+show me languageid0 jobs requiring a degid0 in locid0 ?
+give me languageid0 jobs on platformid0 ?
+are there any platformid0 jobs ?
+are there any titleid0 jobs open ?
+are there any platformid0 titleid0 jobs open in locid0 ?
+what areaid0 jobs are there ?
+what jobs are there for locid0 platformid0 titleid0 using languageid0 ?
+what are the software engineering jobs available using languageid0 ?
+all the jobs please ?
