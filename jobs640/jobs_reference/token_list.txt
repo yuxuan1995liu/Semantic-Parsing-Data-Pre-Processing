@@ -1,0 +1,10 @@
+locid0
+companyid0
+areaid0
+degid0
+titleid0
+platformid0
+recruiterid0
+languageid0
+applicationid0
+year0
